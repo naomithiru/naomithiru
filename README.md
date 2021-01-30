@@ -9,7 +9,11 @@
 - 💬 Ask me about Geospatial data
 - 📫 How to reach me:
 
-<div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="nl_NL" data-type="vertical" data-theme="dark" data-vanity="menno-van-der-graaf-13138490"><a class="LI-simple-link" href='https://nl.linkedin.com/in/menno-van-der-graaf-13138490?trk=profile-badge'>Menno van der Graaf</a></div>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/naomithiru)
 
-- ⚡ Fun fact: ...
--->
+
+- ⚡ Fun fact: If you drilled a tunnel straight through the Earth and jumped in, then it would take you about 42 minutes to get to the other side!
+
+
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
