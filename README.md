@@ -1,7 +1,4 @@
-### Hi there, I'm Naomi! 👋
-
-<!--
-**naomithiru/naomithiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, Welcome! 👋
 
 
 
