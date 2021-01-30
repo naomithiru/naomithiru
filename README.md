@@ -1,11 +1,11 @@
-### Hi there, Welcome! 👋
+### Get to know me! 👋
 
 
 
 - 🔭 I’m currently working on developing: Data Science and Machine Learning Skills
 - 🌱 I’m currently learning: NLP!
-- 👯 I’m looking to collaborate on: 
-- 🤔 I’m looking for help with:
+- 👯 I’m reading: Naked Statistics 
+- 🤔 I like to: [Write](https://medium.com/@nimothiru)
 - 💬 Ask me about: Geospatial Information Technology
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/naomithiru/)
 
