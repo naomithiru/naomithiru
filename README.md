@@ -10,5 +10,5 @@
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/naomithiru/)
 
 
-- ⚡ Fun fact: If you drilled a tunnel straight through the Earth and jumped in, then it would take you about 42 minutes to get to the other side! (Over to you [The boring company](https://www.boringcompany.com/) :sunglasses:
+- ⚡ Fun fact: If you drilled a tunnel straight through the Earth and jumped in, then it would take you about 42 minutes to get to the other side! (Over to you [The boring company](https://www.boringcompany.com/) :sunglasses:)
 
