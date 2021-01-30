@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on developing: Data Science and Machine Learning Skills
+- 🔭 I’m currently working on developing: Satellite Image Classifier using CNN
 - 🌱 I’m currently learning: NLP!
 - 👯 I’m reading: [Naked Statistics](https://www.goodreads.com/book/show/17986418-naked-statistics)
 - 🤔 I like to: [Write](https://medium.com/@nimothiru)
