@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on developing: Satellite Image Classifier using CNN
+- 🔭 I’m currently working on developing: Satellite Image Segmentation using CNN
 - 🌱 I’m currently learning: NLP!
 - 🤔 I like to: Read | Write | Code
 - 👯 I’m reading: [Naked Statistics](https://www.goodreads.com/user/show/87327997-naomi-thiru)
