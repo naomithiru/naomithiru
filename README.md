@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on developing: Satellite Imagery Segmentation tool using Neural Networks
 - 🌱 I’m currently learning: NLP!
 - 🤔 I like to: Read | Write | Code
-- 👯 I’m reading: [Empire of Illusion: The End of Literacy and the Triumph of Spectacle](https://www.goodreads.com/user/show/87327997-naomi-thiru)
+- 👯 I’m reading: [Naked Statistics: Stripping the Dread from the Data](https://www.goodreads.com/book/show/17986418-naked-statistics)
 - 💬 Ask me about: Geospatial Information Technology
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/naomithiru/)
 
