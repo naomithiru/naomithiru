@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on developing: Satellite Imagery Segmentation tool using Neural Networks
-- 🌱 I’m currently learning: Java
+- 🔭 I’m currently working on developing: My data engineering skills!
+- 🌱 I’m currently learning: DevOps
 - 🤔 I like to: Read | Write | Code
 - 👯 I’m reading: [Naked Statistics: Stripping the Dread from the Data](https://www.goodreads.com/user/show/87327997-naomi-thiru)
 - 💬 Ask me about: Geospatial Information Technology
